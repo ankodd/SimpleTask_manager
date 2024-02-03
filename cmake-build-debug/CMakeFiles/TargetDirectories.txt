@@ -1,0 +1,3 @@
+/home/ruslan/CLionProjects/SimpleTask-manager/cmake-build-debug/CMakeFiles/SimpleTask_manager.dir
+/home/ruslan/CLionProjects/SimpleTask-manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ruslan/CLionProjects/SimpleTask-manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
